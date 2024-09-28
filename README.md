@@ -127,11 +127,12 @@ Once the system is up and running, you can interact with it using the provided A
 
 Example query:
 
-```sparql
-SELECT ?entity ?property WHERE {
-  ?entity rdf:type :DynamicConcept .
-  ?entity :hasProperty ?property .
-}
+1. query the knowledge base:
+   ```sparql
+    SELECT ?entity ?property WHERE {
+      ?entity rdf:type :DynamicConcept .
+      ?entity :hasProperty ?property .
+    }
 
 ## Contributing
 We welcome contributions from the research community, developers, and AI enthusiasts! To contribute:
