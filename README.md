@@ -1,5 +1,7 @@
 # Dynamic Knowledge System
 
+[![Contributors](https://img.shields.io/github/contributors/your-username/dynamic-knowledge-system)](https://github.com/CharlesEmehel/dynamic-knowledge-system/graphs/contributors)
+
 ## Overview
 
 The **Dynamic Knowledge System (DKS)** research project aims to explore new paradigms of knowledge representation and reasoning that adapt to evolving information in real-time. Traditional knowledge systems often face limitations in handling non-static, changing environments, and cannot reflect the dynamic nature of many real-world domains. DKS attempts to overcome these challenges through sophisticated models that allow for flexible, timely, and context-aware knowledge integration.
