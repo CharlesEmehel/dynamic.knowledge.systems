@@ -144,3 +144,15 @@ We welcome contributions from the research community, developers, and AI enthusi
 5. Submit a Pull Request.
 
 Please ensure you follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
+
+## License
+
+The project is licensed under the MIT License and the artifacts, codebases and architecture belongs to RWTH Aachen University and can be obtained through the Automation of Complex Power Systems institute at the E.ON Energy research Center.
+
+## Contact
+For any questions, suggestions, or collaboration opportunities, feel free to reach out to:
+
+Research Lead: [C. W. Emehel]
+Email: [charles.emehel@eonerc.rwth-aachen.de]
+Institution: [RWTH Aachen University/Institue for the Automation of Complex Power Systems]
+Twitter: [@cemehel]
