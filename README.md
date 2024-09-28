@@ -31,12 +31,15 @@ The system is designed to be interdisciplinary, encompassing principles from:
 
 ## Motivation
 
-The increasing complexity of modern systems, such as:
+The increasing complexity of the modern systems, such as:
 
+- **Digital Twin**
+- **Data Spaces**
 - **Autonomous agents**
 - **IoT networks**
 - **Real-time decision-making systems**
 - **Smart energy grids**
+
 
 ...calls for the development of knowledge systems that are not only aware of current states of the world but also capable of predicting and adapting to future changes in these systems, their data and metadata. The **Dynamic Knowledge System** aims to provide a framework that can:
 
