@@ -31,7 +31,7 @@ The system is designed to be interdisciplinary, encompassing principles from:
 
 ## Motivation
 
-The increasing complexity of the modern systems, such as:
+The increasing complexity of modern systems, such as:
 
 - **Digital Twin**
 - **Data Spaces**
