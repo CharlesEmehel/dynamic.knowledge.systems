@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Dynamic Knowledge System (DKS)** research project aims to explore new paradigms of knowledge representation and reasoning that adapt to evolving information in real-time. Traditional knowledge systems often face limitations in handling non-static, changing environments, and cannot reflect the dynamic nature of many real-world domains. DKS attempts to overcome these challenges through sophisticated models that allow for flexible, timely, and context-aware knowledge integration.
+The **Dynamic Knowledge System (DKS)** research project aims to explore new approach of knowledge representation and reasoning that adapt to evolving information in real-time. Traditional knowledge systems often face limitations in handling non-static, changing environments, often with manual processes of matching, adjusting, resolving and combining data, information and knowledge systems. These cannot reflect the dynamic nature of many real-world domains and digital models like digital twins and data spaces applications. DKS attempts to overcome these challenges through well researched algorithms, methodologies, architectures and models that allow for flexible, timely, and context-aware knowledge integration.
 
 ## Table of Contents
 - [Introduction](#introduction)
