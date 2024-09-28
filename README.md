@@ -152,7 +152,7 @@ The project is licensed under the MIT License and the artifacts, codebases and a
 ## Contact
 For any questions, suggestions, or collaboration opportunities, feel free to reach out to:
 
-Research Lead: [C. W. Emehel]
-Email: [charles.emehel@eonerc.rwth-aachen.de]
-Institution: [RWTH Aachen University/Institue for the Automation of Complex Power Systems]
-Twitter: [@cemehel]
+- **Research Lead**: [C. W. Emehel]
+- **Email**:         [charles.emehel@eonerc.rwth-aachen.de]
+- **Institution**:   [RWTH Aachen University/Institue for the Automation of Complex Power Systems]
+- **Twitter**:       [@cemehel]
