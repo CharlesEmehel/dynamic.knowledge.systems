@@ -46,7 +46,7 @@ The increasing complexity of modern systems, such as:
 ...calls for the development of knowledge systems that are not only aware of current states of the world but also capable of predicting and adapting to future changes in these systems, their data and metadata. The **Dynamic Knowledge System** aims to provide a framework that can:
 
 1. Adapt to environmental changes in real-time.
-2. Learn new facts and ontologies automatically using standards like CIM (IEC61968, IEC61970 and IEC62325), BFO (IEC/ISO21838) and W3C (JSON-LD).
+2. Learn new facts and ontologies automatically using standards like CIM (IEC61968, IEC61970 and IEC62325), BFO (IEC/ISO21838) and W3C's (JSON-LD) standard.
 3. Provide consistent, temporal and spatial reasoning and decision-making under uncertainty.
 4. Interoperate with various data sources and ontological frameworks.
 
