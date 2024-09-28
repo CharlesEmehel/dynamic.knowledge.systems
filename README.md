@@ -117,3 +117,29 @@ To install and run the **Dynamic Knowledge System** locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/dynamic-knowledge-system.git
+
+## Usage
+Once the system is up and running, you can interact with it using the provided APIs or through a web interface. The system supports various modes of operation:
+
+- **Ontology Creation**: Create and evolve ontologies using a combination of machine learning and rule-based methods.
+- **Dynamic Querying**: Query dynamic knowledge bases in real-time using SPARQL and other querying languages.
+- **Reasoning Engine**: Integrate the reasoning engine for real-time decision-making system.
+
+Example query:
+
+```sparql
+SELECT ?entity ?property WHERE {
+  ?entity rdf:type :DynamicConcept .
+  ?entity :hasProperty ?property .
+}
+
+## Contributing
+We welcome contributions from the research community, developers, and AI enthusiasts! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit and push (`git push origin feature-branch`).
+5. Submit a Pull Request.
+
+Please ensure you follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
