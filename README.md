@@ -89,7 +89,7 @@ The **Dynamic Knowledge System** project aims to achieve the following:
 The research follows a multi-step methodology to achieve its objectives:
 
 1. **Problem Identification**: Define the limitations of current static knowledge systems and the need for dynamic capabilities.
-2. **Formalization**: Develop formal models that describe how knowledge can evolve over time.
+2. **Formalization**: Develop formal ontology models that describe how knowledge can evolve over time.
 3. **Implementation**: Build a prototype using available AI Agents and knowledge representation technologies.
 4. **Evaluation**: Test the system using gold standards or groundtrucths with real-world dynamic environments, such as autonomous driving, EV mobility or IoT networks.
 5. **Iterative Improvement**: Continuously refine models based on performance, scalability, and accuracy metrics.
